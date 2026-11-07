@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+<title id="title">Tanishq Sonawane — Software, Cloud, AI and Automation</title>
+<desc id="desc">A dark navy portfolio banner with blue and violet accents, a subtle grid, and a code window illustration.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1120"/><stop offset="1" stop-color="#172341"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#6ce5db"/><stop offset="1" stop-color="#9b92ff"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#6762b7" stop-opacity=".25"/><stop offset="1" stop-color="#6762b7" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#c7d2fe" stroke-opacity=".035"/></pattern>
+</defs>
+<rect width="1280" height="320" rx="20" fill="url(#bg)"/>
+<rect width="1280" height="320" rx="20" fill="url(#grid)"/>
+<ellipse cx="1060" cy="110" rx="360" ry="280" fill="url(#glow)"/>
+<rect x="54" y="52" width="34" height="3" rx="1.5" fill="url(#accent)"/>
+<text x="54" y="90" fill="#82d9d3" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="3">BUILD. LEARN. IMPROVE.</text>
+<text x="50" y="166" fill="#f4f6ff" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Tanishq Sonawane</text>
+<text x="54" y="211" fill="#b6c4dc" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="2">SOFTWARE / CLOUD / AI / AUTOMATION</text>
+<path d="M54 258H750" stroke="#334363" stroke-width="1"/>
+<text x="54" y="284" fill="#8193b4" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing=".6">Ideas into useful tools. Curiosity into working projects.</text>
+<g transform="translate(914 68)">
+ <rect width="290" height="184" rx="14" fill="#0b1325" stroke="#485779" stroke-opacity=".65"/>
+ <path d="M0 38H290" stroke="#2c3c58"/>
+ <circle cx="22" cy="19" r="4" fill="#7285a7"/><circle cx="38" cy="19" r="4" fill="#7285a7"/><circle cx="54" cy="19" r="4" fill="#7285a7"/>
+ <path d="M91 76L62 100L91 124M199 76L228 100L199 124M161 67L130 134" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M30 157H151M166 157H208" stroke="#405277" stroke-width="4" stroke-linecap="round"/>
+</g>
+</svg>

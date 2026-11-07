@@ -1,34 +1,77 @@
-# Hi, I'm Tanishq
+<img src="assets/profile-banner.svg" alt="Tanishq Sonawane — Software, Cloud, AI and Automation" width="100%" />
 
-I'm interested in making technical products easier to understand through clear
-documentation, practical examples, and small automation tools. My repositories
-cover cloud learning, Python applications, and AI-system documentation.
+# Building practical software
 
-## Start with the writing
+Exploring cloud, AI, and automation through hands-on projects.
 
-| Sample | What to look for |
-| --- | --- |
-| [AgentOps reader guide](https://github.com/tanishqsgit/7th-SEM-Documentation/blob/main/docs/reader-guide.md) | A reading path through a team project's architecture, report, and unpublished manuscript |
-| [Finance Tracker task guide](https://github.com/tanishqsgit/finance-tracker/blob/main/docs/first-expense.md) | Prerequisites, API steps, expected results, and recovery guidance |
-| [SAA Study Studio quickstart](https://github.com/tanishqsgit/AWS-SAA-EXAM-PREP/blob/main/docs/quickstart.md) | Desktop and source setup, local-profile behavior, and troubleshooting |
+I'm a Computer Science undergraduate at MIT-ADT University, graduating in 2027.
+I build web and desktop applications, explore how systems work behind the interface,
+and document what I learn. My experience includes an SDE internship and freelance
+development for a client in Dubai.
 
-## Documentation and code
+[Explore my projects](https://github.com/tanishqsgit?tab=repositories) ·
+[LinkedIn](https://www.linkedin.com/in/tanishqsonawane1823/)
 
-- [Docs Quality Toolkit](https://github.com/tanishqsgit/docs-quality-toolkit): a standard-library Python
-  checker for Markdown titles, local links, metadata, and terminology, with tests and GitHub Actions.
-- [Finance Tracker](https://github.com/tanishqsgit/finance-tracker): a FastAPI application
-  with expense, budget, and reporting APIs.
-- [SAA Study Studio](https://github.com/tanishqsgit/AWS-SAA-EXAM-PREP): a local-first
-  cloud study application with explicit source-review status and content limitations.
+## Selected projects
 
-## Approach to AI-assisted work
+| Project | What it does | Engineering focus |
+| --- | --- | --- |
+| [SquadUp — Esports Team Finder](https://github.com/tanishqsgit/ETF-SQUAD-UP) | Helps players discover teammates, form squads, and exchange messages | React, Node.js, PostgreSQL, REST APIs, Socket.io |
+| [SAA Study Studio](https://github.com/tanishqsgit/AWS-SAA-EXAM-PREP) | A local-first AWS study app with practice papers, a structured course, and saved progress | TypeScript, React, Electron, browser storage, offline behavior |
+| [Finance Tracker](https://github.com/tanishqsgit/finance-tracker) | Tracks expenses, monthly budgets, and spending summaries | Python, FastAPI, SQLAlchemy, authentication, API design |
+| [Docs Quality Toolkit](https://github.com/tanishqsgit/docs-quality-toolkit) | Checks Markdown links, titles, metadata, and terminology | Python, automated tests, JSON diagnostics, GitHub Actions |
+| [Shubham Water Park](https://github.com/tanishqsgit/Shubham-WaterPark) | A photo-led website with responsive layouts and motion controls | React, TypeScript, animation, accessible interactions |
+| [AgentOps — Team Project Documentation](https://github.com/tanishqsgit/7th-SEM-Documentation) | Documents an AI-agent orchestration platform and its architecture | TypeScript, SQLite, queues, scheduling, AI CLI adapters |
 
-I use AI assistance as part of drafting and development. The new portfolio guides
-and documentation toolkit were prepared with AI assistance. They are not samples
-of unaided writing. Automated checks, source comparison, human review, and product
-testing are distinct; verification records state what was actually checked.
+SquadUp offers a browser demo and a separate full-stack setup. AgentOps is a team
+project; the linked repository contains documentation rather than runnable source.
+Each repository explains its current scope and setup requirements.
 
-AgentOps is team work; repository membership does not imply sole authorship.
-The AWS project's generated learning material has no claimed human expert review.
-My goal is useful, evidence-based documentation with clear limits and a human
-accuracy check before publication.
+## What I work on
+
+- **Web and desktop applications:** user interfaces, APIs, authentication, data models,
+  local persistence, and packaging applications people can run.
+- **Automation and AI integrations:** small Python tools, repeatable checks,
+  provider adapters, and workflows that keep human review visible.
+- **Cloud and systems:** learning AWS architecture and exploring queues, storage,
+  deployment configuration, and recovery considerations through projects.
+- **Clear technical communication:** setup instructions, task-based guides,
+  troubleshooting, and explanations of system behavior.
+
+## Experience
+
+**Freelance Full-Stack Developer · June–September 2026**<br/>
+Built a desktop project and financial tracker for a Dubai client, including
+multi-currency records, reporting, Excel import/export, authentication, and offline storage.
+
+**SDE Intern, Catasoft Pvt. Ltd. · June–August 2025**<br/>
+Worked on JavaScript and React features, debugging, testing, and remote collaboration
+using Git and GitHub.
+
+## Tools I use
+
+**Languages:** JavaScript, TypeScript, Python, SQL<br/>
+**Applications:** React, Node.js, Express, FastAPI, Electron<br/>
+**Data and workflow:** PostgreSQL, SQLite, SQLAlchemy, Git, GitHub Actions
+
+## Explore the work
+
+- **Full-stack and backend:** start with [SquadUp](https://github.com/tanishqsgit/ETF-SQUAD-UP)
+  and [Finance Tracker](https://github.com/tanishqsgit/finance-tracker).
+- **Desktop and offline applications:** see [SAA Study Studio](https://github.com/tanishqsgit/AWS-SAA-EXAM-PREP).
+- **Frontend and interaction design:** see [Shubham Water Park](https://github.com/tanishqsgit/Shubham-WaterPark).
+- **Python automation:** run [Docs Quality Toolkit](https://github.com/tanishqsgit/docs-quality-toolkit).
+- **Writing and architecture:** read the [API task guide](https://github.com/tanishqsgit/finance-tracker/blob/main/docs/first-expense.md)
+  or [AgentOps documentation](https://github.com/tanishqsgit/7th-SEM-Documentation).
+
+## How I work
+
+I use AI-assisted development and documentation workflows. Repository notes identify
+AI-assisted material, verification records, and limitations. The documentation toolkit
+and portfolio guides were created with AI assistance; team projects remain credited
+as team work. I value clear scope, reproducible steps, and honest reporting of results.
+
+---
+
+I'm interested in software development, practical automation, and opportunities to
+learn with a team. [Connect on LinkedIn](https://www.linkedin.com/in/tanishqsonawane1823/).
