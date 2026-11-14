@@ -4,7 +4,7 @@
 
 Exploring cloud, AI, and automation through hands-on projects.
 
-I'm a Computer Science undergraduate at MIT-ADT University, graduating in 2027.
+I'm a Computer Science undergraduate at MIT-ADT University, graduating in 2027..
 I build web and desktop applications, explore how systems work behind the interface,
 and document what I learn. My experience includes an SDE internship and freelance
 development for a client in Dubai.
