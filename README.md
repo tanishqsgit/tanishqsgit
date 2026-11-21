@@ -6,7 +6,7 @@
 
 I build web and desktop applications, backend APIs, and automation tools. I study Computer Science at MIT-ADT University (expected 2027) and have experience in software development through an internship and freelance full-stack work.
 
-[Explore my projects](https://github.com/tanishqsgit?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/tanishqsonawane1823/) · [Credly](https://www.credly.com/users/tanishq-sonawane.7fe708a8)
+[Explore my projects](https://github.com/tanishqsgit?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/tanishqsonawane/) · [Credly](https://www.credly.com/users/tanishq-sonawane.7fe708a8)
 
 ## AWS certification
 
@@ -77,4 +77,4 @@ as team work. I value clear scope, reproducible steps, and honest reporting of r
 ---
 
 I'm interested in software development, practical automation, and opportunities to
-learn with a team. [Connect on LinkedIn](https://www.linkedin.com/in/tanishqsonawane1823/).
+learn with a team. [Connect on LinkedIn](https://www.linkedin.com/in/tanishqsonawane/).
