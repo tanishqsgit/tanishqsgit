@@ -1,4 +1,4 @@
-<img src="assets/profile-banner.svg?v=amber" alt="Tanishq Sonawane — Software, Cloud, AI and Automation" width="100%" />
+<img src="https://raw.githubusercontent.com/tanishqsgit/tanishqsgit/d45b210a05e6c1a79f16a81c943f580e00fd4304/assets/profile-banner.svg" alt="Tanishq Sonawane — Software, Cloud, AI and Automation" width="100%" />
 
 # Tanishq Sonawane
 
