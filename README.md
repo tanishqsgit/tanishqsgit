@@ -1,16 +1,19 @@
 <img src="assets/profile-banner.svg" alt="Tanishq Sonawane — Software, Cloud, AI and Automation" width="100%" />
 
-# Building practical software
+# Tanishq Sonawane
 
-Exploring cloud, AI, and automation through hands-on projects.
+**AWS Certified Solutions Architect – Associate · Computer Science undergraduate**
 
-I'm a Computer Science undergraduate at MIT-ADT University, graduating in 2027..
-I build web and desktop applications, explore how systems work behind the interface,
-and document what I learn. My experience includes an SDE internship and freelance
-development for a client in Dubai.
+I build web and desktop applications, backend APIs, and automation tools. I study Computer Science at MIT-ADT University (expected 2027) and have experience in software development through an internship and freelance full-stack work.
 
-[Explore my projects](https://github.com/tanishqsgit?tab=repositories) ·
-[LinkedIn](https://www.linkedin.com/in/tanishqsonawane1823/)
+[Explore my projects](https://github.com/tanishqsgit?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/tanishqsonawane1823/) · [Credly](https://www.credly.com/users/tanishq-sonawane.7fe708a8)
+
+## AWS certification
+
+<a href="https://www.credly.com/badges/1b814766-8146-4446-99ea-146362220750"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate badge" width="110" /></a>
+
+**AWS Certified Solutions Architect – Associate** · Amazon Web Services  
+[Verify on Credly](https://www.credly.com/badges/1b814766-8146-4446-99ea-146362220750)
 
 ## Selected projects
 
